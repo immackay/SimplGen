@@ -1,0 +1,5 @@
+name: SimplGen
+main: wgen.simple.gen.Main
+version: 0.01(Test!)
+author: immac636
+load: startup
